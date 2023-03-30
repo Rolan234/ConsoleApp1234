@@ -80,7 +80,7 @@ namespace ConsoleApp1
             {
                 Console.Write($"{elem}\t");
             }
-
+            
             Console.Read();
 
         }
